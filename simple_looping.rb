@@ -6,8 +6,6 @@ def loop_iterator(number_of_times)
     puts "Welcome to Flatiron School's Web Development Course!"
     if phrase >= 7
       break
-end
-puts "Very Welcome"
     
     
 def while_iterator(number_of_times)
