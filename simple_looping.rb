@@ -7,6 +7,7 @@ def loop_iterator(number_of_times)
     if phrase >= 7
       break
 end
+puts "Very Welcome"
     
     
 def while_iterator(number_of_times)
