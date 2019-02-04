@@ -1,8 +1,13 @@
 
-phrase = "Welcome to Flatiron School's Web Development Course!"
+phrase = 0
 def loop_iterator(number_of_times)
   loop do
+    phrase = phrase + 1 
     puts "Welcome to Flatiron School's Web Development Course!"
+    if phrase >= 7
+      break
+    end 
+end
     
     
 def while_iterator(number_of_times)
